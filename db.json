@@ -1,0 +1,139 @@
+{
+    "categories": [
+      { "id": 1, "name": "Смартфоны", "image": "https://avatars.mds.yandex.net/get-mpic/1626700/img_id7735018695857307227.jpeg/9hq" },
+      { "id": 2, "name": "Планшеты", "image": "https://avatars.mds.yandex.net/get-marketpic/1686254/market_2h9DQ0plzvrSh6BPG0qsQQ/600x600" },
+      { "id": 3, "name": "Фотоаппараты", "image": "https://avatars.mds.yandex.net/get-mpic/1246680/img_id3035050041215186803.png/9hq" },
+      { "id": 4, "name": "Аудиотехника", "image": "https://avatars.mds.yandex.net/get-mpic/1855911/img_id3049047685638395082.jpeg/9hq" },
+      { "id": 5, "name": "Виртуальная реальность", "image": "https://avatars.mds.yandex.net/get-mpic/195452/img_id3253905843049958906/6hq" }
+    ],
+  
+    "products": [
+      { 
+          "id": 101, 
+          "categoryId": 1, 
+          "name": "Смартфон Samsung Galaxy A51 64GB", 
+          "price": 15990, 
+          "image": "https://avatars.mds.yandex.net/get-mpic/1909520/img_id3904048948464222398.jpeg/6hq",
+          "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "разрешение 2400x1080", "4 камеры: 48 МП, 12 МП, 5 МП, 5 МП", "процессор Samsung Exynos 9611", "память 64 ГБ, слот для карты памяти", "3G, 4G LTE, Wi-Fi, Bluetooth, NFC", "объем оперативной памяти 4 ГБ", "аккумулятор 4000 мА/ч", "вес 172 г, ШxВxТ 73.60x158.50x7.90 мм"]
+      },
+      { 
+          "id": 102, 
+          "categoryId": 1, 
+          "name": "Смартфон HONOR 9X 4/128GB", 
+          "price": 15790, 
+          "image": "https://avatars.mds.yandex.net/get-mpic/1614201/img_id4391524371770813845.jpeg/6hq",
+          "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "разрешение 2400x1080", "4 камеры: 48 МП, 12 МП, 5 МП, 5 МП", "процессор Samsung Exynos 9611", "память 64 ГБ, слот для карты памяти", "3G, 4G LTE, Wi-Fi, Bluetooth, NFC", "объем оперативной памяти 4 ГБ", "аккумулятор 4000 мА/ч", "вес 172 г, ШxВxТ 73.60x158.50x7.90 мм"]
+      },
+      { 
+          "id": 103, 
+          "categoryId": 1, 
+          "name": "Смартфон Xiaomi Redmi Note 8 Pro 6/64GB", 
+          "price": 15890, 
+          "image": "https://avatars.mds.yandex.net/get-mpic/1545401/img_id8465549420610880199.jpeg/6hq",
+          "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "разрешение 2400x1080", "4 камеры: 48 МП, 12 МП, 5 МП, 5 МП", "процессор Samsung Exynos 9611", "память 64 ГБ, слот для карты памяти", "3G, 4G LTE, Wi-Fi, Bluetooth, NFC", "объем оперативной памяти 4 ГБ", "аккумулятор 4000 мА/ч", "вес 172 г, ШxВxТ 73.60x158.50x7.90 мм"]
+      },
+      { 
+          "id": 104, 
+          "categoryId": 1, 
+          "name": "Смартфон Samsung Galaxy S10 Lite 6/128GB", 
+          "price": 39990, 
+          "image": "https://avatars.mds.yandex.net/get-mpic/1543318/img_id7075743737581419705.jpeg/6hq",
+          "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "разрешение 2400x1080", "4 камеры: 48 МП, 12 МП, 5 МП, 5 МП", "процессор Samsung Exynos 9611", "память 64 ГБ, слот для карты памяти", "3G, 4G LTE, Wi-Fi, Bluetooth, NFC", "объем оперативной памяти 4 ГБ", "аккумулятор 4000 мА/ч", "вес 172 г, ШxВxТ 73.60x158.50x7.90 мм"]
+      },
+      { 
+          "id": 105, 
+          "categoryId": 1, 
+          "name": "Смартфон Apple iPhone 11 128GB", 
+          "price": 61990, 
+          "image": "https://avatars.mds.yandex.net/get-mpic/1862701/img_id8303576135959179156.png/6hq",
+          "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "разрешение 2400x1080", "4 камеры: 48 МП, 12 МП, 5 МП, 5 МП", "процессор Samsung Exynos 9611", "память 64 ГБ, слот для карты памяти", "3G, 4G LTE, Wi-Fi, Bluetooth, NFC", "объем оперативной памяти 4 ГБ", "аккумулятор 4000 мА/ч", "вес 172 г, ШxВxТ 73.60x158.50x7.90 мм"]
+      },
+      { 
+          "id": 106, 
+          "categoryId": 1, 
+          "name": "Смартфон HUAWEI Nova 5T", 
+          "price": 24300, 
+          "image": "https://avatars.mds.yandex.net/get-mpic/1713519/img_id1274997894041190083.jpeg/6hq",
+          "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "разрешение 2400x1080", "4 камеры: 48 МП, 12 МП, 5 МП, 5 МП", "процессор Samsung Exynos 9611", "память 64 ГБ, слот для карты памяти", "3G, 4G LTE, Wi-Fi, Bluetooth, NFC", "объем оперативной памяти 4 ГБ", "аккумулятор 4000 мА/ч", "вес 172 г, ШxВxТ 73.60x158.50x7.90 мм"]
+      },
+      { 
+          "id": 107, 
+          "categoryId": 1, 
+          "name": "Смартфон Samsung Galaxy A01", 
+          "price": 6990, 
+          "image": "https://avatars.mds.yandex.net/get-mpic/1539743/img_id5408131095039837521.jpeg/6hq",
+          "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "разрешение 2400x1080", "4 камеры: 48 МП, 12 МП, 5 МП, 5 МП", "процессор Samsung Exynos 9611", "память 64 ГБ, слот для карты памяти", "3G, 4G LTE, Wi-Fi, Bluetooth, NFC", "объем оперативной памяти 4 ГБ", "аккумулятор 4000 мА/ч", "вес 172 г, ШxВxТ 73.60x158.50x7.90 мм"]
+      },
+      { 
+          "id": 108, 
+          "categoryId": 1, 
+          "name": "Смартфон Motorola Moto G8 Plus 4/64GB", 
+          "price": 15990, 
+          "image": "https://avatars.mds.yandex.net/get-mpic/1865723/img_id4676120569902042645.jpeg/6hq",
+          "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "разрешение 2400x1080", "4 камеры: 48 МП, 12 МП, 5 МП, 5 МП", "процессор Samsung Exynos 9611", "память 64 ГБ, слот для карты памяти", "3G, 4G LTE, Wi-Fi, Bluetooth, NFC", "объем оперативной памяти 4 ГБ", "аккумулятор 4000 мА/ч", "вес 172 г, ШxВxТ 73.60x158.50x7.90 мм"]
+      },
+      { 
+          "id": 109, 
+          "categoryId": 1, 
+          "name": "Смартфон Xiaomi Poco X3 NFC 6/128GB", 
+          "price": 23165, 
+          "image": "https://avatars.mds.yandex.net/get-mpic/1626700/img_id5144184933510648905.jpeg/6hq",
+          "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "разрешение 2400x1080", "4 камеры: 48 МП, 12 МП, 5 МП, 5 МП", "процессор Samsung Exynos 9611", "память 64 ГБ, слот для карты памяти", "3G, 4G LTE, Wi-Fi, Bluetooth, NFC", "объем оперативной памяти 4 ГБ", "аккумулятор 4000 мА/ч", "вес 172 г, ШxВxТ 73.60x158.50x7.90 мм"]
+      },
+      { 
+          "id": 110, 
+          "categoryId": 1, 
+          "name": "Смартфон OPPO A5s", 
+          "price": 8750, 
+          "image": "https://avatars.mds.yandex.net/get-mpic/1750207/img_id5898950200040707571.jpeg/6hq",
+          "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "разрешение 2400x1080", "4 камеры: 48 МП, 12 МП, 5 МП, 5 МП", "процессор Samsung Exynos 9611", "память 64 ГБ, слот для карты памяти", "3G, 4G LTE, Wi-Fi, Bluetooth, NFC", "объем оперативной памяти 4 ГБ", "аккумулятор 4000 мА/ч", "вес 172 г, ШxВxТ 73.60x158.50x7.90 мм"]
+      },
+
+      { 
+        "id": 201, 
+        "categoryId": 2, 
+        "name": "Планшет Apple iPad (2020) 32Gb Wi-Fi", 
+        "price": 29990, 
+        "image": "https://avatars.mds.yandex.net/get-mpic/1923922/img_id4333643319504844232.jpeg/6hq",
+        "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "разрешение 2400x1080", "4 камеры: 48 МП, 12 МП, 5 МП, 5 МП", "процессор Samsung Exynos 9611", "память 64 ГБ, слот для карты памяти", "3G, 4G LTE, Wi-Fi, Bluetooth, NFC", "объем оперативной памяти 4 ГБ", "аккумулятор 4000 мА/ч", "вес 172 г, ШxВxТ 73.60x158.50x7.90 мм"]
+      },
+      { 
+        "id": 202, 
+        "categoryId": 2, 
+        "name": "Планшет Samsung Galaxy Tab A 8.0 SM-T295 32Gb (2019)", 
+        "price": 12990, 
+        "image": "https://avatars.mds.yandex.net/get-mpic/1884605/img_id9144187026135302861.jpeg/6hq",
+        "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "разрешение 2400x1080", "4 камеры: 48 МП, 12 МП, 5 МП, 5 МП", "процессор Samsung Exynos 9611", "память 64 ГБ, слот для карты памяти", "3G, 4G LTE, Wi-Fi, Bluetooth, NFC", "объем оперативной памяти 4 ГБ", "аккумулятор 4000 мА/ч", "вес 172 г, ШxВxТ 73.60x158.50x7.90 мм"]
+      },
+      { 
+        "id": 203, 
+        "categoryId": 2, 
+        "name": "Планшет Lenovo Tab M10 Plus TB-X606F 128Gb", 
+        "price": 15490, 
+        "image": "https://avatars.mds.yandex.net/get-mpic/1733932/img_id8435900069949510801.jpeg/6hq",
+        "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "разрешение 2400x1080", "4 камеры: 48 МП, 12 МП, 5 МП, 5 МП", "процессор Samsung Exynos 9611", "память 64 ГБ, слот для карты памяти", "3G, 4G LTE, Wi-Fi, Bluetooth, NFC", "объем оперативной памяти 4 ГБ", "аккумулятор 4000 мА/ч", "вес 172 г, ШxВxТ 73.60x158.50x7.90 мм"]
+      },
+      { 
+        "id": 204, 
+        "categoryId": 2, 
+        "name": "Планшет HUAWEI MediaPad M5 Lite 8 32Gb LTE (2019)", 
+        "price": 13900, 
+        "image": "https://avatars.mds.yandex.net/get-mpic/1657306/img_id7259429452583666038.jpeg/6hq",
+        "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "разрешение 2400x1080", "4 камеры: 48 МП, 12 МП, 5 МП, 5 МП", "процессор Samsung Exynos 9611", "память 64 ГБ, слот для карты памяти", "3G, 4G LTE, Wi-Fi, Bluetooth, NFC", "объем оперативной памяти 4 ГБ", "аккумулятор 4000 мА/ч", "вес 172 г, ШxВxТ 73.60x158.50x7.90 мм"]
+      },
+      { 
+        "id": 205, 
+        "categoryId": 2, 
+        "name": "Планшет Apple iPad Air (2019) 64Gb Wi-Fi", 
+        "price": 40330, 
+        "image": "https://avatars.mds.yandex.net/get-mpic/1866068/img_id7070434538046308385.jpeg/6hq",
+        "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "разрешение 2400x1080", "4 камеры: 48 МП, 12 МП, 5 МП, 5 МП", "процессор Samsung Exynos 9611", "память 64 ГБ, слот для карты памяти", "3G, 4G LTE, Wi-Fi, Bluetooth, NFC", "объем оперативной памяти 4 ГБ", "аккумулятор 4000 мА/ч", "вес 172 г, ШxВxТ 73.60x158.50x7.90 мм"]
+      }
+  
+    ],
+  
+    "profile": {
+      "name": "SionicTestApi"
+    }
+  }
+  
